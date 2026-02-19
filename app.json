@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Dressing IA",
+    "slug": "dressing-ia",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.tonnom.dressingia"
+    }
+  }
+}
