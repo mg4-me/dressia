@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Dressing IA",
-    "slug": "dressing-ia",
+    "slug": "dressia",
     "version": "1.0.0",
     "sdkVersion": "50.0.0",
     "platforms": ["android"],
