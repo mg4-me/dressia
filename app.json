@@ -3,9 +3,14 @@
     "name": "Dressing IA",
     "slug": "dressing-ia",
     "version": "1.0.0",
+    "sdkVersion": "50.0.0",
     "platforms": ["android"],
     "android": {
-      "package": "com.tonnom.dressingia"
-    }
+      "package": "com.mg4k.dressingia",
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0D"
+      }
+    },
+    "assetBundlePatterns": ["**/*"]
   }
 }
